@@ -15,7 +15,7 @@ function Cadastro() {
           <input type="password" placeholder="Senha" required />
           <button type="submit">Registrar</button>
         </form>
-        <Link to="/" className="back-btn">
+        <Link to="/login" className="back-btn">
           &#8592; Voltar para Login
         </Link>
       </div>
